@@ -20,4 +20,4 @@ Using what I have learned up until now I create a list that ranked artists from 
 
 # Resume:
 
-![](https://github.com/Shaukat-khan/Portfolio/blob/main/Resume/CS%20Resume%20PIC.png)
+![](/Resume/CS%20Resume%20PIC.png)
