@@ -1,5 +1,4 @@
-# Portfolio
-Shaukat Khan
+# Shaukat Khan Portfolio
 
 Contact Information:
 
@@ -19,4 +18,5 @@ With some research help and looking at different styles of board games, I was ab
 # [Project 3:Link to a top artist on spotify.com from first place to tenth.](https://github.com/Shaukat-khan/Lab-4.git)
 Using what I have learned up until now I create a list that ranked artists from 1 to 10 depending on the trend using a file in my code. Using sorting methods to sort my file from a website was a first, but with data structures I had learned the skills needed for this project. 
 
+# Resume:
 ![](https://github.com/Shaukat-khan/Portfolio/blob/main/Resume/CS%20Resume%20PIC.png)
