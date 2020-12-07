@@ -1,5 +1,7 @@
 # Shaukat Khan Portfolio
 
+![](main/CS%20HEAD%20PIC.jpg)
+
 Contact Information:
 
   •	929-509-6289
