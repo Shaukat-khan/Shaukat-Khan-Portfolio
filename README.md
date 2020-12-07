@@ -1,6 +1,6 @@
 # Shaukat Khan Portfolio
 
-![](main/CS%20HEAD%20PIC.jpg)
+![](Resume/CS%20HEAD%20PIC.jpg)
 
 Contact Information:
 
