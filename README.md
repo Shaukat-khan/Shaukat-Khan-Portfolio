@@ -1,6 +1,6 @@
 # Shaukat Khan Portfolio
 
-![](Resume/CS%20HEAD%20PIC.jpg)
+<img src="Resume/CS%20HEAD%20PIC.jpg" width = "400">
 
 Contact Information:
 
