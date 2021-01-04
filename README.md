@@ -5,8 +5,11 @@
 Contact Information:
 
 Phone #:    929-509-6289
-Email:      Shaukat.khan1919@gmail.com	                     
+
+Email:      Shaukat.khan1919@gmail.com
+
 LinkedIn:   www.linkedin.com/in/shaukat-khan-703081126
+
 GitHub:     https://github.com/Shaukat-khan
 
 
