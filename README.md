@@ -14,7 +14,7 @@ GitHub:     https://github.com/Shaukat-khan
 
 
 # Personal Mission:
-From an early age I have always been intersted in developing code, making webiste or apps and making people lives easier by making futuristic desgins. My inspiration personally comes from Elon Musk who built tesla so people can have reliable cars and make the enviroment cleaner. I will be graduating from Brooklyn College in December 2021 and hopefully have a joab that makes a difference by coding. 
+Hi, my name is Shaukat Khan and welcome to my portfolio. From an early age I have always been intersted in developing code, making webiste or apps and making people lives easier by making futuristic desgins. My inspiration personally comes from Elon Musk who built tesla so people can have reliable cars and make the enviroment cleaner. I will be graduating from Brooklyn College in December 2021 and hopefully have a joab that makes a difference by coding. 
 
 # [Project 1:Link to a Java Chatting Application that I developed.](https://github.com/Shaukat-khan/Java-Chatting-Application.git)
 I used java core, swong and socket programming to create a chatting application. In this application I had a server and client where both would text one another to communicate. Using my experience in java and a little bit of research I was able to create a project that I am proud of. 
