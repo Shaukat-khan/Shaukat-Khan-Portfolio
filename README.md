@@ -4,9 +4,11 @@
 
 Contact Information:
 
-  •	929-509-6289
+Phone #:    929-509-6289
+Email:      Shaukat.khan1919@gmail.com	                     
+LinkedIn:   www.linkedin.com/in/shaukat-khan-703081126
+GitHub:     https://github.com/Shaukat-khan
 
-  •	Shaukat.khan1919@gmail.com
 
 # Personal Mission:
 My personal mission is to be the best coder that I can be and build things for the world that would make the world a much better and cleaner place. I want to code things that would make everyone’s live much easier and make the world we live in a better place to be in. My inspiration personally comes from Elon Musk who built tesla so people can have reliable cars and make the enviroment cleaner. 
