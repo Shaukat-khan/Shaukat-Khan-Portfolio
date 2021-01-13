@@ -27,4 +27,4 @@ This was one of my first projects I create where I was able to use basic math fu
 
 # Resume:
 
-![](Resume/CS%20Resume%20PIC.png)
+![](Resume/CS%20RESUME%20PIC.png)
